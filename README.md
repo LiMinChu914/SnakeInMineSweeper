@@ -22,7 +22,7 @@ Play Snake on MinSweeper with loading dll.
 
 
 ## 輔助工具
- [IDA Pro]
+- [IDA Pro]
   用於反編譯與分析程式碼。
 - [OllyDbg]
   設置執行中斷點，測試各個函數的功能。
