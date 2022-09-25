@@ -21,3 +21,10 @@ Play Snake on MinSweeper with loading dll.
 <img src = "https://user-images.githubusercontent.com/61506816/192155948-c5ca49dc-3bfd-466f-8a15-aacc63488b89.png" width = "400">
 
 
+## 輔助工具
+ [IDA Pro]
+  用於反編譯與分析程式碼。
+- [OllyDbg]
+  設置執行中斷點，測試各個函數的功能。
+- [Cheat Engine]
+  對記憶體進行觀察/修改，方便測試。
