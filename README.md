@@ -13,7 +13,7 @@ Play Snake on MinSweeper with loading dll.
 
 <img src = "https://user-images.githubusercontent.com/61506816/192155929-6652df4d-60a0-4fc7-8f02-896bb0a840c1.png" width = "400">
 
-4.在 cmd 上輸入 Injector.exe snake.dll "踩地雷的PID"
+4.在 cmd 上輸入 `Injector.exe snake.dll "踩地雷的PID"`
 
 <img src = "https://user-images.githubusercontent.com/61506816/192155948-c5ca49dc-3bfd-466f-8a15-aacc63488b89.png" width = "400">
 
