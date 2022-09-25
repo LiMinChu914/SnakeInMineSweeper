@@ -4,6 +4,7 @@ Play Snake on MinSweeper with loading dll.
 <img src = "https://github.com/LiMinChu914/SnakeInMineSweeper/blob/main/screenshot.png" width = "400" height = "400">
 
 使用方法:
+
 1.下載 injector.exe, snake.dll
 
 2.打開 cmd 和踩地雷
