@@ -9,6 +9,9 @@ Play Snake on MinSweeper with loading dll.
 
 2.打開 cmd 和踩地雷
 
+<img src = "https://user-images.githubusercontent.com/61506816/192156294-c5b2c81e-9aad-47e6-852d-ad3452ebd434.png" width = "400">
+
+
 3.打開工作管理員點進詳細資料並查看踩地雷的PID
 
 <img src = "https://user-images.githubusercontent.com/61506816/192155929-6652df4d-60a0-4fc7-8f02-896bb0a840c1.png" width = "400">
